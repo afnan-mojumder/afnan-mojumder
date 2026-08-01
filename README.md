@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Afnan%20Mojumder&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6700,100:FF3D00&height=180&section=header&text=Afnan%20Mojumder&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -48,12 +48,12 @@ Most of my hands-on work right now lives inside **DistillEd** — an AI-native n
 ## 📊 GitHub stats
 
 <p>
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=afnan-mojumder&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=afnan-mojumder&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=afnan-mojumder&show_icons=true&hide_border=true&title_color=FF6700&icon_color=FF6700&text_color=e0e0e0&bg_color=0d1117" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=afnan-mojumder&layout=compact&hide_border=true&title_color=FF6700&text_color=e0e0e0&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afnan-mojumder&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afnan-mojumder&hide_border=true&background=0D1117&ring=FF6700&fire=FF6700&currStreakLabel=FF6700&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9e9e9e&border=FF6700" />
 </p>
 
 ---
