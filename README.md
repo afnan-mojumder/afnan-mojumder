@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Afnan%20Mojumder&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%2FML%20%C2%B7%20Cybersecurity%20%C2%B7%20Flutter&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Afnan%20Mojumder&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -50,8 +48,8 @@ Most of my hands-on work right now lives inside **DistillEd** — an AI-native n
 ## 📊 GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=afnan-mojumder&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-mojumder&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=afnan-mojumder&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=afnan-mojumder&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
