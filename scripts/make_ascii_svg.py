@@ -26,7 +26,7 @@ RAMP = " .`:-=+*cs#%@"
 
 GRID_W = 100          # characters wide
 CHAR_W = 6.2           # px per character cell (monospace-ish)
-CHAR_H = 11
+CHAR_H = 12.5           # a little taller than FONT_SIZE so rows never bleed into each other
 FONT_SIZE = 11
 COLOR = "#8b949e"      # single light-gray fill; no per-char rainbow
 
@@ -95,12 +95,20 @@ def render_svg(rows):
         y = 15 + i * CHAR_H
         begin = i * ROW_STAGGER
 
+        # Explicit per-character x positions (a space-separated list on the
+        # `x` attribute) instead of relying on a single <text> run laid out
+        # by the font's own advance widths. This makes the glyph grid
+        # immune to which monospace font a given browser/OS substitutes —
+        # every renderer places each character at exactly the slot we
+        # computed, so rows never drift out of alignment with each other.
+        xs = " ".join(f"{10 + j * CHAR_W:.1f}" for j in range(len(row)))
+
         # Clip path that wipes left->right via SMIL <animate> on width
         clip_id = f"clip{i}"
         parts.append(f'<clipPath id="{clip_id}">')
         parts.append(f'  <rect x="0" y="{y - CHAR_H}" height="{CHAR_H}" width="0">')
         parts.append(
-            f'    <animate attributeName="width" from="0" to="{row_width:.1f}" '
+            f'    <animate attributeName="width" from="0" to="{row_width + 12:.1f}" '
             f'begin="{begin:.3f}s" dur="{ROW_DURATION}s" fill="freeze" calcMode="spline" '
             f'keySplines="0.25 0.1 0.25 1" keyTimes="0;1"/>'
         )
@@ -109,7 +117,8 @@ def render_svg(rows):
 
         parts.append(f'<g clip-path="url(#{clip_id})">')
         parts.append(
-            f'<text x="10" y="{y}" font-size="{FONT_SIZE}" fill="{COLOR}" xml:space="preserve">{esc(row)}</text>'
+            f'<text x="{xs}" y="{y}" font-size="{FONT_SIZE}" fill="{COLOR}" '
+            f'xml:space="preserve">{esc(row)}</text>'
         )
         parts.append("</g>")
 
