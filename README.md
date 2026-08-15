@@ -78,7 +78,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=afnan-mojumder&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=afnan-mojumder&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
 </p>
 
 ---
