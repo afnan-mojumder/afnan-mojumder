@@ -70,17 +70,17 @@
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afnan-mojumder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-mojumder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/github/followers/afnan-mojumder?label=Followers&style=for-the-badge&color=238636&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/afnan-mojumder?label=Stars%20Given&style=for-the-badge&color=e3b341&logo=apachespark" alt="Stars" />
+  <img src="https://img.shields.io/badge/Status-Active%20Building-58a6ff?style=for-the-badge&logo=codefactor" alt="Status" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=afnan-mojumder&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=afnan-mojumder&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
-
 ---
 
 <div align="center">
