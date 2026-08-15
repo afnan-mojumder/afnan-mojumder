@@ -1,11 +1,6 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi+there,+I'm+Afnan+Mojumder+%F0%9F%91%8B;Full-Stack+Developer+(MERN);Computer+Science+Undergrad+%40+BRAC+University;Passionate+about+Applied+AI+%26+Software+Engineering" alt="Typing SVG" />
-</a>
-
-<!-- Dynamic Typing SVG Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Hi+there,+I'm+Afnan+Mojumder+%F0%9F%91%8B;Full-Stack+Developer+(MERN);Computer+Science+Undergrad+%40+BRAC+University;Passionate+about+Applied+AI+%26+Software+Engineering" alt="Typing SVG" />
