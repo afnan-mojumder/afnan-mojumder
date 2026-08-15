@@ -72,14 +72,14 @@
 
 ### 📊 GitHub Activity & Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=afnan-mojumder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afnan-mojumder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnan-mojumder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afnan-mojumder&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=afnan-mojumder&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
 
 ---
 
