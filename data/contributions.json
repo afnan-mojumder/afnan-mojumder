@@ -1,42 +1,7 @@
 {
   "username": "afnan-mojumder",
-  "generated_at": "2026-08-15T17:03:29.829053Z",
+  "generated_at": "2026-08-16T06:57:14.784575Z",
   "days": [
-    {
-      "date": "2025-08-10",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-11",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-12",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-13",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-14",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-15",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-16",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-08-17",
       "count": 0,
@@ -730,7 +695,7 @@
     {
       "date": "2026-01-02",
       "count": 3,
-      "level": 3
+      "level": 4
     },
     {
       "date": "2026-01-03",
@@ -835,7 +800,7 @@
     {
       "date": "2026-01-23",
       "count": 1,
-      "level": 1
+      "level": 2
     },
     {
       "date": "2026-01-24",
@@ -845,12 +810,12 @@
     {
       "date": "2026-01-25",
       "count": 1,
-      "level": 1
+      "level": 2
     },
     {
       "date": "2026-01-26",
       "count": 1,
-      "level": 1
+      "level": 2
     },
     {
       "date": "2026-01-27",
@@ -895,7 +860,7 @@
     {
       "date": "2026-02-04",
       "count": 1,
-      "level": 1
+      "level": 2
     },
     {
       "date": "2026-02-05",
@@ -1790,7 +1755,7 @@
     {
       "date": "2026-08-02",
       "count": 3,
-      "level": 3
+      "level": 4
     },
     {
       "date": "2026-08-03",
@@ -1854,17 +1819,22 @@
     },
     {
       "date": "2026-08-15",
-      "count": 2,
-      "level": 2
+      "count": 15,
+      "level": 4
+    },
+    {
+      "date": "2026-08-16",
+      "count": 0,
+      "level": 0
     }
   ],
   "stats": {
-    "total_last_year": 21,
-    "current_streak": 2,
+    "total_last_year": 34,
+    "current_streak": 0,
     "longest_streak": 2,
     "best_day": {
-      "date": "2026-08-14",
-      "count": 5,
+      "date": "2026-08-15",
+      "count": 15,
       "level": 4
     },
     "monthly_totals": {
@@ -1880,7 +1850,7 @@
       "2026-05": 0,
       "2026-06": 0,
       "2026-07": 0,
-      "2026-08": 10
+      "2026-08": 23
     }
   }
 }
