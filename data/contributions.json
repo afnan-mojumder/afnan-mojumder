@@ -1,6 +1,6 @@
 {
   "username": "afnan-mojumder",
-  "generated_at": "2026-08-24T07:18:24.028276Z",
+  "generated_at": "2026-08-25T07:06:35.894962Z",
   "days": [
     {
       "date": "2025-08-24",
@@ -630,7 +630,7 @@
     {
       "date": "2025-12-27",
       "count": 4,
-      "level": 4
+      "level": 2
     },
     {
       "date": "2025-12-28",
@@ -660,7 +660,7 @@
     {
       "date": "2026-01-02",
       "count": 3,
-      "level": 4
+      "level": 1
     },
     {
       "date": "2026-01-03",
@@ -765,7 +765,7 @@
     {
       "date": "2026-01-23",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-01-24",
@@ -775,12 +775,12 @@
     {
       "date": "2026-01-25",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-01-26",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-01-27",
@@ -825,7 +825,7 @@
     {
       "date": "2026-02-04",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-02-05",
@@ -1664,8 +1664,8 @@
     },
     {
       "date": "2026-07-22",
-      "count": 0,
-      "level": 0
+      "count": 8,
+      "level": 3
     },
     {
       "date": "2026-07-23",
@@ -1720,7 +1720,7 @@
     {
       "date": "2026-08-02",
       "count": 3,
-      "level": 4
+      "level": 1
     },
     {
       "date": "2026-08-03",
@@ -1779,8 +1779,8 @@
     },
     {
       "date": "2026-08-14",
-      "count": 5,
-      "level": 4
+      "count": 7,
+      "level": 2
     },
     {
       "date": "2026-08-15",
@@ -1790,53 +1790,58 @@
     {
       "date": "2026-08-16",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-08-17",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-08-18",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-08-19",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-08-20",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-08-21",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-08-22",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-08-23",
       "count": 1,
-      "level": 2
+      "level": 1
     },
     {
       "date": "2026-08-24",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-08-25",
       "count": 0,
       "level": 0
     }
   ],
   "stats": {
-    "total_last_year": 42,
+    "total_last_year": 53,
     "current_streak": 0,
-    "longest_streak": 10,
+    "longest_streak": 11,
     "best_day": {
       "date": "2026-08-15",
       "count": 15,
@@ -1854,8 +1859,8 @@
       "2026-04": 0,
       "2026-05": 0,
       "2026-06": 0,
-      "2026-07": 0,
-      "2026-08": 31
+      "2026-07": 8,
+      "2026-08": 34
     }
   }
 }
