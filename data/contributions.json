@@ -1,6 +1,6 @@
 {
   "username": "afnan-mojumder",
-  "generated_at": "2026-08-25T07:06:35.894962Z",
+  "generated_at": "2026-08-26T07:06:48.704032Z",
   "days": [
     {
       "date": "2025-08-24",
@@ -630,7 +630,7 @@
     {
       "date": "2025-12-27",
       "count": 4,
-      "level": 2
+      "level": 4
     },
     {
       "date": "2025-12-28",
@@ -660,7 +660,7 @@
     {
       "date": "2026-01-02",
       "count": 3,
-      "level": 1
+      "level": 3
     },
     {
       "date": "2026-01-03",
@@ -1665,7 +1665,7 @@
     {
       "date": "2026-07-22",
       "count": 8,
-      "level": 3
+      "level": 4
     },
     {
       "date": "2026-07-23",
@@ -1720,7 +1720,7 @@
     {
       "date": "2026-08-02",
       "count": 3,
-      "level": 1
+      "level": 3
     },
     {
       "date": "2026-08-03",
@@ -1779,8 +1779,8 @@
     },
     {
       "date": "2026-08-14",
-      "count": 7,
-      "level": 2
+      "count": 11,
+      "level": 4
     },
     {
       "date": "2026-08-15",
@@ -1804,23 +1804,23 @@
     },
     {
       "date": "2026-08-19",
-      "count": 1,
-      "level": 1
+      "count": 2,
+      "level": 2
     },
     {
       "date": "2026-08-20",
-      "count": 1,
-      "level": 1
+      "count": 2,
+      "level": 2
     },
     {
       "date": "2026-08-21",
-      "count": 1,
-      "level": 1
+      "count": 2,
+      "level": 2
     },
     {
       "date": "2026-08-22",
-      "count": 1,
-      "level": 1
+      "count": 4,
+      "level": 4
     },
     {
       "date": "2026-08-23",
@@ -1834,14 +1834,19 @@
     },
     {
       "date": "2026-08-25",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-08-26",
       "count": 0,
       "level": 0
     }
   ],
   "stats": {
-    "total_last_year": 53,
+    "total_last_year": 64,
     "current_streak": 0,
-    "longest_streak": 11,
+    "longest_streak": 12,
     "best_day": {
       "date": "2026-08-15",
       "count": 15,
@@ -1860,7 +1865,7 @@
       "2026-05": 0,
       "2026-06": 0,
       "2026-07": 8,
-      "2026-08": 34
+      "2026-08": 45
     }
   }
 }
