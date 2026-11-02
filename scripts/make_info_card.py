@@ -24,21 +24,22 @@ VALUE_COLOR = "#c9d1d9"
 MUTED = "#8b949e"
 PROMPT_COLOR = "#58a6ff"
 
-WIDTH = 490
-ROW_H = 24
+WIDTH = 520
+ROW_H = 25
 PAD_X = 20
 TITLEBAR_H = 34
 
 CONFIG = {
-    "user": "afnan@github",
+    "user": "afnan@terminal ~ $ whoami",
     "rows": [
         ("Name", "Afnan Mojumder"),
-        ("Now", "Learning PHP, SQL & Dart"),
-        ("Prev", "HTML / CSS fundamentals"),
-        ("Stack", "HTML · CSS · PHP · MySQL · Dart"),
-        ("Highlight", "campus_flow — PHP + MySQL project"),
-        ("Status", "Just started — building in public"),
-        ("Timezone", "UTC+6 (Bangladesh)"),
+        ("Role", "Systems & Applied AI Engineer"),
+        ("Education", "B.Sc. in CSE @ BRAC University ('27)"),
+        ("Focus", "Systems · Compilers · Agentic AI · Mobile"),
+        ("Languages", "Rust · C/C++ · Python · Dart · TypeScript"),
+        ("Open Source", "uutils · pingora · litellm · vkd3d-proton"),
+        ("Status", "Building & contributing to upstream OSS"),
+        ("Location", "Dhaka, Bangladesh (UTC+6)"),
     ],
 }
 
